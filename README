@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1138
+
+Script provides indenting for Scilab, a scientific software package for numerical computations similar to Matlab (http://www.scilab.org). Screenshot: http://vamo.euweb.cz/vim/scilab/scilab.png
+There is a script for syntax hilighting (vimscript#1137).
